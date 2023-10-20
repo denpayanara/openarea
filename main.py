@@ -121,7 +121,7 @@ for d in list_nara:
 
             addr_5G += d['addr'].replace('奈良県', '') + '\n'    
 
-message = f'基地局設置情報ページが更新されました。\n\n奈良県は{count_nara}件です。\n\n{addr_4G+addr_5G}\nhttps://network.mobile.rakuten.co.jp/area/saikyo-plan-project/?l-id=area_saikyo-plan-project\n#楽天モバイル #bot'
+message = f'【テスト】基地局設置情報ページが更新されました。\n\n奈良県は{count_nara}件です。\n\n{addr_4G+addr_5G}\nhttps://network.mobile.rakuten.co.jp/area/saikyo-plan-project/?l-id=area_saikyo-plan-project\n#楽天モバイル #bot'
 
 print(message)
 
