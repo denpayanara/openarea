@@ -55,6 +55,9 @@ if urls != 0:
     with open('data/url.text', mode='r') as f:
         before_url = f.read()
 
+    print(before_url)
+    print(urls[0])
+
     if before_url == urls[0]: # テスト後修正
 
         for i, url in enumerate(urls):
