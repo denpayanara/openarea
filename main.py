@@ -18,4 +18,4 @@ with open('data/url.text', mode='r') as f:
 
 print(urls[0] == before_url)
 
-print(urls[0], before_url)
+print(type(urls[0]), type(before_url))
