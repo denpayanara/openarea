@@ -7,8 +7,8 @@ import time
 from urllib import request, parse
 
 import geopandas as gpd
-from linebot import LineBotApi
-from linebot.models import TextSendMessage
+# from linebot import LineBotApi
+# from linebot.models import TextSendMessage
 import pandas as pd
 import tweepy
 
@@ -142,11 +142,11 @@ client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, acc
 # ツイート
 client.create_tweet(text = message, )
 
-# LINE
-line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
+# # LINE アクセストークン忘れた
+# line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
 
-# 送信
-line_bot_api.broadcast(messages = [TextSendMessage(text = message),])
+# # 送信
+# line_bot_api.broadcast(messages = [TextSendMessage(text = message),])
 
 # 最新のURLを保存
 
