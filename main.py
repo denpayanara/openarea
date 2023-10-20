@@ -140,7 +140,7 @@ api = tweepy.API(auth)
 client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
 
 # ツイート
-client.create_tweet(text = message, )
+# client.create_tweet(text = message, )
 
 # # LINE アクセストークン忘れた
 # line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
@@ -178,4 +178,4 @@ gdf_dissolve = gdf_area_1.dissolve(by=['ID'], as_index=False)
 
 gdf_area_2 = gdf_dissolve[['flag', 'ID', 'Date', 'Type', 'PostalCode', 'Prefecture', 'City', 'addr_y', 'geometry']].rename(columns={'addr_y': 'addr'}).sort_values('flag')
 
-gdf_area_2.to_file('開局エリア.geojson', driver='GeoJSON', index=False)
+gdf_area_2.to_file('data/開局エリア.geojson', driver='GeoJSON', index=False)
