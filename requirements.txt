@@ -1,3 +1,4 @@
+chardet
 geopandas
 pandas
 tweepy
