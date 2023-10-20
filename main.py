@@ -48,7 +48,7 @@ with request.urlopen(url, context=ctx) as r:
 
 json_data = list()
 
-if urls == 0: # テスト後修正！
+if urls != 0:
 
     # 前回の値と異なれば実行
 
@@ -74,9 +74,11 @@ if urls == 0: # テスト後修正！
             time.sleep(1)
 
     else:
+        print('前回と同じデータの為プログラムを終了します。')
         sys.exit()
 
 else:
+    print('URLを取得できていません。')
     sys.exit()
 
 list_nara = list()
