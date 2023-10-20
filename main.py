@@ -48,7 +48,7 @@ with request.urlopen(url, context=ctx) as r:
 
 json_data = list()
 
-if urls != 0:
+if urls == 0: # テスト後修正！
 
     # 前回の値と異なれば実行
 
