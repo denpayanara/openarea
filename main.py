@@ -52,7 +52,7 @@ if urls != 0:
 
     # 前回の値と異なれば実行
 
-    with open('url.text', mode='r') as f:
+    with open('data/url.text', mode='r') as f:
         before_url = f.read()
 
     if before_url == urls[0]: # テスト後修正
@@ -150,7 +150,7 @@ client.create_tweet(text = message, )
 
 # 最新のURLを保存
 
-with open('url.text', mode='w') as f:
+with open('data/url.text', mode='w') as f:
     f.write(urls[0])
 
 # 開局エリアのポリゴン作成
