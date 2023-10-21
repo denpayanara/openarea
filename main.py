@@ -55,7 +55,7 @@ if urls != 0:
     with open('data/url.text', mode='r') as f:
         before_url = f.read()
 
-    if before_url == urls[0]: # テスト後修正
+    if before_url != urls[0]:
 
         for i, url in enumerate(urls):
             
@@ -155,6 +155,8 @@ with open('data/url.text', mode='w') as f:
 
 # 開局エリアのポリゴン作成
 
+print('開局エリアのポリゴンを作成します...')
+
 gdf_area_0 = gpd.read_file('A002005212020DDSWC29.geojson').fillna('')
 
 df_nara = pd.DataFrame(list_nara)
@@ -163,7 +165,7 @@ gdf_area_1 = gpd.GeoDataFrame()
 
 for index, row in df_nara.iterrows():
 
-    print(row['addr'])
+    # print(row['addr'])
 
     merge_data = pd.merge(gdf_area_0[gdf_area_0['addr'].str.contains(row['addr'])].reset_index(drop=True), df_nara, left_on='CITY_NAME', right_on='City')
 
