@@ -14,16 +14,16 @@ ctx.options |= 0x4
 with request.urlopen(url, context=ctx) as r:
     urls = re.findall(r'"(/assets/json/area-project-\d{6}-\d{6}.json)"', r.read().decode('utf-8'))
 
-with open('data/url.text', mode='r') as f:
-    before_url = f.read()
+# with open('data/url.text', mode='r') as f:
+#     before_url = f.read()
 
-print(urls[0] == before_url)
+# print(urls[0] == before_url)
 
-print(type(urls[0]), type(before_url))
+# print(type(urls[0]), type(before_url))
 
-print(chardet.detect(urls[0]))
+# print(chardet.detect(urls[0]))
 
-print(chardet.detect(before_url))
+# print(chardet.detect(before_url))
 
-# with open('data/url.text', mode='w') as f:
-#     f.write(urls[0])
+with open('data/url.text', mode='w') as f:
+    f.write(urls[0])
