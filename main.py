@@ -177,7 +177,7 @@ for index, row in df_nara.iterrows():
 # 同一地域の融合
 # 念の為IDで
 
-gdf_dissolve = gdf_area_1.dissolve(by=['ID'], as_index=False)
+gdf_dissolve = gdf_area_1.dissolve(by=['ID', 'Type', 'Date'], as_index=False)
 
 # gdf_dissolve.columns
 
