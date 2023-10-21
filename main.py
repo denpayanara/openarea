@@ -21,9 +21,9 @@ print(urls[0] == before_url)
 
 print(type(urls[0]), type(before_url))
 
-print(chardet.detect(urls[0]))
+# print(chardet.detect(urls[0]))
 
-print(chardet.detect(before_url))
+# print(chardet.detect(before_url))
 
 # with open('data/url.text', mode='w') as f:
 #     f.write(urls[0])
