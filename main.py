@@ -55,7 +55,7 @@ if urls != 0:
     with open('data/url.text', mode='r') as f:
         before_url = f.read()
 
-    if before_url == urls[0]: # テスト後修正
+    if before_url != urls[0]:
 
         for i, url in enumerate(urls):
             
@@ -131,19 +131,19 @@ print(message)
 # SNSへ通知
 
 # Twitter
-# api_key = os.environ['API_KEY']
-# api_secret = os.environ['API_SECRET_KEY']
-# access_token = os.environ['ACCESS_TOKEN']
-# access_token_secret = os.environ['ACCESS_TOKEN_SECRET']
+api_key = os.environ['API_KEY']
+api_secret = os.environ['API_SECRET_KEY']
+access_token = os.environ['ACCESS_TOKEN']
+access_token_secret = os.environ['ACCESS_TOKEN_SECRET']
 
-# auth = tweepy.OAuthHandler(api_key, api_secret)
-# auth.set_access_token(access_token, access_token_secret)
+auth = tweepy.OAuthHandler(api_key, api_secret)
+auth.set_access_token(access_token, access_token_secret)
 
-# api = tweepy.API(auth)
-# client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
+api = tweepy.API(auth)
+client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
 
 # ツイート
-# client.create_tweet(text = message, )
+client.create_tweet(text = message, )
 
 # # LINE アクセストークン忘れた
 # line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
