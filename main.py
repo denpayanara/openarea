@@ -91,6 +91,9 @@ for j in json_data:
 
             j['addr'] = get_addr(int(j['PostalCode']))
 
+            # 郡名削除
+            j['City']  = re.sub('生駒郡|宇陀郡|北葛城郡|磯城郡|高市郡|山辺郡|吉野郡', '', j['City'])
+
             list_nara.append(j)
 
             time.sleep(1)
