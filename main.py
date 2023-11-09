@@ -12,26 +12,29 @@ import geopandas as gpd
 import pandas as pd
 import tweepy
 
-# 郵便番号から住所を取得
-# http://zipcloud.ibsnet.co.jp/doc/api
+# 郵便番号データ
+with open('zip_code_nara.json') as f:
+    json_zip = json.load(f)
+
+# 郵便番号から住所を取得する関数
 
 def get_addr(zipcode):
 
-    param = parse.urlencode({'zipcode': zipcode})
-
-    with request.urlopen(f'https://zipcloud.ibsnet.co.jp/api/search?{param}') as res:
-        body = json.loads(res.read().decode('utf-8'))
-
     addr = ''
 
-    if body['message'] == None:
-        
-        for v in body['results']:
+    for v in json_zip:
 
-            addr = v['address1'] + v['address2'] + v['address3']
+        try:
+            if  v['zip_code'] == zipcode:
 
-            # 郡名削除
-            addr = re.sub('生駒郡|宇陀郡|北葛城郡|磯城郡|高市郡|山辺郡|吉野郡', '', addr)
+                addr = v['pref'] + v['city'] + v['sname']
+
+                # 郡名削除
+                addr = re.sub('生駒郡|宇陀郡|北葛城郡|磯城郡|高市郡|山辺郡|吉野郡', '', addr)
+
+        # 存在しない場合の処理
+        except:
+            addr = None
 
     return addr
 
@@ -95,8 +98,7 @@ for j in json_data:
             j['City']  = re.sub('生駒郡|宇陀郡|北葛城郡|磯城郡|高市郡|山辺郡|吉野郡', '', j['City'])
 
             list_nara.append(j)
-
-            time.sleep(1)
+            
     except:
         pass
 
