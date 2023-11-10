@@ -1,3 +1,4 @@
 geopandas
 pandas
+shapely
 tweepy
