@@ -38798,5 +38798,2357 @@
     "City": "海部郡蟹江町",
     "Pref_code": "23",
     "addr": "愛知県蟹江町平安"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNE3001002184",
+    "PostalCode": "6460051",
+    "Prefecture": "和歌山県",
+    "City": "田辺市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNJ01B1000070",
+    "PostalCode": "0783164",
+    "Prefecture": "北海道",
+    "City": "留萌市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNJ0101002377",
+    "PostalCode": "0482402",
+    "Prefecture": "北海道",
+    "City": "余市郡仁木町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REJ0102602751",
+    "PostalCode": "0680403",
+    "Prefecture": "北海道",
+    "City": "夕張市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNJ0101001850",
+    "PostalCode": "0882578",
+    "Prefecture": "北海道",
+    "City": "野付郡別海町"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNJ0101001818",
+    "PostalCode": "0980509",
+    "Prefecture": "北海道",
+    "City": "名寄市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNJ0101002362",
+    "PostalCode": "0760036",
+    "Prefecture": "北海道",
+    "City": "富良野市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNJ0101001849",
+    "PostalCode": "0882684",
+    "Prefecture": "北海道",
+    "City": "標津郡中標津町"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNJ0101002972",
+    "PostalCode": "0590900",
+    "Prefecture": "北海道",
+    "City": "白老郡白老町"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNJ0101002431",
+    "PostalCode": "0590642",
+    "Prefecture": "北海道",
+    "City": "白老郡白老町"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REJ0102602749",
+    "PostalCode": "0560011",
+    "Prefecture": "北海道",
+    "City": "日高郡新ひだか町"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REJ0102601649",
+    "PostalCode": "0591365",
+    "Prefecture": "北海道",
+    "City": "苫小牧市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REJ0102600845",
+    "PostalCode": "0590035",
+    "Prefecture": "北海道",
+    "City": "登別市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REJ0102601600",
+    "PostalCode": "0590012",
+    "Prefecture": "北海道",
+    "City": "登別市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNJ0101002801",
+    "PostalCode": "0890781",
+    "Prefecture": "北海道",
+    "City": "中川郡幕別町"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REJ0102600227",
+    "PostalCode": "0891245",
+    "Prefecture": "北海道",
+    "City": "帯広市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNJ0101002568",
+    "PostalCode": "0882265",
+    "Prefecture": "北海道",
+    "City": "川上郡標茶町"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REJ0102601303",
+    "PostalCode": "0660067",
+    "Prefecture": "北海道",
+    "City": "千歳市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNJ0101002475",
+    "PostalCode": "0740141",
+    "Prefecture": "北海道",
+    "City": "深川市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNJ0101001827",
+    "PostalCode": "0980334",
+    "Prefecture": "北海道",
+    "City": "上川郡剣淵町"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNJ0101002914",
+    "PostalCode": "0490454",
+    "Prefecture": "北海道",
+    "City": "上磯郡木古内町"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNJ0101002793",
+    "PostalCode": "0491105",
+    "Prefecture": "北海道",
+    "City": "上磯郡知内町"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNJ0101002682",
+    "PostalCode": "0430114",
+    "Prefecture": "北海道",
+    "City": "爾志郡乙部町"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REJ0102600495",
+    "PostalCode": "0030834",
+    "Prefecture": "北海道",
+    "City": "札幌市白石区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REJ0102602284",
+    "PostalCode": "0070810",
+    "Prefecture": "北海道",
+    "City": "札幌市東区"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "5G",
+    "ID": "REJ0102602010",
+    "PostalCode": "0040882",
+    "Prefecture": "北海道",
+    "City": "札幌市清田区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REJ0102600648",
+    "PostalCode": "0040839",
+    "Prefecture": "北海道",
+    "City": "札幌市清田区"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "5G",
+    "ID": "REJ0102600382",
+    "PostalCode": "0040061",
+    "Prefecture": "北海道",
+    "City": "札幌市厚別区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REJ0102600377",
+    "PostalCode": "0040005",
+    "Prefecture": "北海道",
+    "City": "札幌市厚別区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNJ0101002560",
+    "PostalCode": "0860062",
+    "Prefecture": "北海道",
+    "City": "根室市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNJ0101002606",
+    "PostalCode": "0891882",
+    "Prefecture": "北海道",
+    "City": "広尾郡大樹町"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNJ0101002605",
+    "PostalCode": "0891881",
+    "Prefecture": "北海道",
+    "City": "広尾郡大樹町"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNJ0101002807",
+    "PostalCode": "0880771",
+    "Prefecture": "北海道",
+    "City": "厚岸郡厚岸町"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNJ0101002376",
+    "PostalCode": "0460132",
+    "Prefecture": "北海道",
+    "City": "古平郡古平町"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REJ0102602376",
+    "PostalCode": "0460132",
+    "Prefecture": "北海道",
+    "City": "古平郡古平町"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RNJ0101002518",
+    "PostalCode": "0450024",
+    "Prefecture": "北海道",
+    "City": "岩内郡岩内町"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNJ0101002503",
+    "PostalCode": "0411404",
+    "Prefecture": "北海道",
+    "City": "茅部郡鹿部町"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNJ0101002610",
+    "PostalCode": "0891374",
+    "Prefecture": "北海道",
+    "City": "河西郡中札内村"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNJ0101002499",
+    "PostalCode": "0481723",
+    "Prefecture": "北海道",
+    "City": "虻田郡留寿都村"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNJ0101002547",
+    "PostalCode": "0710186",
+    "Prefecture": "北海道",
+    "City": "旭川市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNE2801002617",
+    "PostalCode": "6670133",
+    "Prefecture": "兵庫県",
+    "City": "養父市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REE2802600406",
+    "PostalCode": "6740053",
+    "Prefecture": "兵庫県",
+    "City": "明石市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REE2802600770",
+    "PostalCode": "6700966",
+    "Prefecture": "兵庫県",
+    "City": "姫路市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNE2801002560",
+    "PostalCode": "6671364",
+    "Prefecture": "兵庫県",
+    "City": "美方郡香美町"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNE2801000495",
+    "PostalCode": "6600843",
+    "Prefecture": "兵庫県",
+    "City": "尼崎市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNE2801002669",
+    "PostalCode": "6511312",
+    "Prefecture": "兵庫県",
+    "City": "神戸市北区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REE2802600844",
+    "PostalCode": "6511623",
+    "Prefecture": "兵庫県",
+    "City": "神戸市北区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REE2802600945",
+    "PostalCode": "6550008",
+    "Prefecture": "兵庫県",
+    "City": "神戸市垂水区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REE2802601003",
+    "PostalCode": "6540121",
+    "Prefecture": "兵庫県",
+    "City": "神戸市須磨区"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNE2801002312",
+    "PostalCode": "6751311",
+    "Prefecture": "兵庫県",
+    "City": "小野市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "REE2802600578",
+    "PostalCode": "6760805",
+    "Prefecture": "兵庫県",
+    "City": "高砂市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNE2801002151",
+    "PostalCode": "6731325",
+    "Prefecture": "兵庫県",
+    "City": "加東市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNI0701002647",
+    "PostalCode": "9691205",
+    "Prefecture": "福島県",
+    "City": "本宮市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNI0701002588",
+    "PostalCode": "9640202",
+    "Prefecture": "福島県",
+    "City": "二本松市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNI0701002399",
+    "PostalCode": "9637701",
+    "Prefecture": "福島県",
+    "City": "田村郡三春町"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNH4001002139",
+    "PostalCode": "8110204",
+    "Prefecture": "福岡県",
+    "City": "福岡市東区"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REH4002600211",
+    "PostalCode": "8390863",
+    "Prefecture": "福岡県",
+    "City": "久留米市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RND1801002053",
+    "PostalCode": "9103377",
+    "Prefecture": "福井県",
+    "City": "福井市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RND1801002221",
+    "PostalCode": "9150202",
+    "Prefecture": "福井県",
+    "City": "越前市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RND1601002112",
+    "PostalCode": "9392411",
+    "Prefecture": "富山県",
+    "City": "富山市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RND1601002114",
+    "PostalCode": "9302102",
+    "Prefecture": "富山県",
+    "City": "富山市"
+  },
+  {
+    "Date": "2023/11/11",
+    "Type": "5G",
+    "ID": "REE2902602040",
+    "PostalCode": "6301243",
+    "Prefecture": "奈良県",
+    "City": "奈良市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNA0901002007",
+    "PostalCode": "3211108",
+    "Prefecture": "栃木県",
+    "City": "日光市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REA0902602003",
+    "PostalCode": "3210118",
+    "Prefecture": "栃木県",
+    "City": "宇都宮市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNA0901002240",
+    "PostalCode": "3200065",
+    "Prefecture": "栃木県",
+    "City": "宇都宮市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNG3601002166",
+    "PostalCode": "7794108",
+    "Prefecture": "徳島県",
+    "City": "美馬郡つるぎ町"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNG3601002094",
+    "PostalCode": "7791510",
+    "Prefecture": "徳島県",
+    "City": "阿南市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNA1301002834",
+    "PostalCode": "1770034",
+    "Prefecture": "東京都",
+    "City": "練馬区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REA1302602021",
+    "PostalCode": "1900014",
+    "Prefecture": "東京都",
+    "City": "立川市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNA1301002578",
+    "PostalCode": "1310032",
+    "Prefecture": "東京都",
+    "City": "墨田区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "NEA1302602586",
+    "PostalCode": "1700011",
+    "Prefecture": "東京都",
+    "City": "豊島区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REA1302602754",
+    "PostalCode": "1400004",
+    "Prefecture": "東京都",
+    "City": "品川区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "NEA1302602413",
+    "PostalCode": "1750083",
+    "Prefecture": "東京都",
+    "City": "板橋区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "NEA1302602422",
+    "PostalCode": "1740046",
+    "Prefecture": "東京都",
+    "City": "板橋区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNA1301002221",
+    "PostalCode": "1740072",
+    "Prefecture": "東京都",
+    "City": "板橋区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNA1301002765",
+    "PostalCode": "1740041",
+    "Prefecture": "東京都",
+    "City": "板橋区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REA1302601222",
+    "PostalCode": "1740042",
+    "Prefecture": "東京都",
+    "City": "板橋区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REA1302600533",
+    "PostalCode": "1920355",
+    "Prefecture": "東京都",
+    "City": "八王子市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNA1301002472",
+    "PostalCode": "1910055",
+    "Prefecture": "東京都",
+    "City": "日野市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REA1302600144",
+    "PostalCode": "1820024",
+    "Prefecture": "東京都",
+    "City": "調布市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNA1301002413",
+    "PostalCode": "1940032",
+    "Prefecture": "東京都",
+    "City": "町田市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNA1301002223",
+    "PostalCode": "1640001",
+    "Prefecture": "東京都",
+    "City": "中野区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REA1302602214",
+    "PostalCode": "1640011",
+    "Prefecture": "東京都",
+    "City": "中野区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REA1302602119",
+    "PostalCode": "1440052",
+    "Prefecture": "東京都",
+    "City": "大田区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNA1301002192",
+    "PostalCode": "1430011",
+    "Prefecture": "東京都",
+    "City": "大田区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REA1302601224",
+    "PostalCode": "1450064",
+    "Prefecture": "東京都",
+    "City": "大田区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNA1301002669",
+    "PostalCode": "1110036",
+    "Prefecture": "東京都",
+    "City": "台東区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNA1301002497",
+    "PostalCode": "1200015",
+    "Prefecture": "東京都",
+    "City": "足立区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNA1301001548",
+    "PostalCode": "1000001",
+    "Prefecture": "東京都",
+    "City": "千代田区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REA1302600744",
+    "PostalCode": "2020006",
+    "Prefecture": "東京都",
+    "City": "西東京市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REA1302601283",
+    "PostalCode": "1901211",
+    "Prefecture": "東京都",
+    "City": "西多摩郡瑞穂町"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "NEA1302000098",
+    "PostalCode": "1580083",
+    "Prefecture": "東京都",
+    "City": "世田谷区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REA1302602918",
+    "PostalCode": "1570061",
+    "Prefecture": "東京都",
+    "City": "世田谷区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "NEA1302600063",
+    "PostalCode": "1580082",
+    "Prefecture": "東京都",
+    "City": "世田谷区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNA1301003019",
+    "PostalCode": "1680081",
+    "Prefecture": "東京都",
+    "City": "杉並区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNA1301002382",
+    "PostalCode": "1620062",
+    "Prefecture": "東京都",
+    "City": "新宿区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RAA1321700343",
+    "PostalCode": "1600022",
+    "Prefecture": "東京都",
+    "City": "新宿区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RAA1321700344",
+    "PostalCode": "1600022",
+    "Prefecture": "東京都",
+    "City": "新宿区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REA1302602649",
+    "PostalCode": "1600022",
+    "Prefecture": "東京都",
+    "City": "新宿区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "REA1302600482",
+    "PostalCode": "1870032",
+    "Prefecture": "東京都",
+    "City": "小平市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REA1302601637",
+    "PostalCode": "1860011",
+    "Prefecture": "東京都",
+    "City": "国立市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNA1301002590",
+    "PostalCode": "1160014",
+    "Prefecture": "東京都",
+    "City": "荒川区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "NEA1302002296",
+    "PostalCode": "1360074",
+    "Prefecture": "東京都",
+    "City": "江東区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RAA1321700387",
+    "PostalCode": "1350003",
+    "Prefecture": "東京都",
+    "City": "江東区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "NEA1302002207",
+    "PostalCode": "1320035",
+    "Prefecture": "東京都",
+    "City": "江戸川区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RAA1321700436",
+    "PostalCode": "1330073",
+    "Prefecture": "東京都",
+    "City": "江戸川区"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNF3201002017",
+    "PostalCode": "6992213",
+    "Prefecture": "島根県",
+    "City": "大田市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNF3101002107",
+    "PostalCode": "6894432",
+    "Prefecture": "鳥取県",
+    "City": "日野郡江府町"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNF3101002120",
+    "PostalCode": "6820422",
+    "Prefecture": "鳥取県",
+    "City": "倉吉市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNF3101000264",
+    "PostalCode": "6893318",
+    "Prefecture": "鳥取県",
+    "City": "西伯郡大山町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNB2001002186",
+    "PostalCode": "3892601",
+    "Prefecture": "長野県",
+    "City": "飯山市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNB2001002479",
+    "PostalCode": "3840702",
+    "Prefecture": "長野県",
+    "City": "南佐久郡佐久穂町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNB2001002449",
+    "PostalCode": "3812401",
+    "Prefecture": "長野県",
+    "City": "長野市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNB2001002439",
+    "PostalCode": "3990423",
+    "Prefecture": "長野県",
+    "City": "上伊那郡辰野町"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNB2001002440",
+    "PostalCode": "3990512",
+    "Prefecture": "長野県",
+    "City": "上伊那郡辰野町"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNH4201002329",
+    "PostalCode": "8540076",
+    "Prefecture": "長崎県",
+    "City": "諫早市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNH4201002058",
+    "PostalCode": "8510502",
+    "Prefecture": "長崎県",
+    "City": "長崎市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNH4201002046",
+    "PostalCode": "8510244",
+    "Prefecture": "長崎県",
+    "City": "長崎市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "KAH4401000031",
+    "PostalCode": "8797262",
+    "Prefecture": "大分県",
+    "City": "豊後大野市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNH4401002377",
+    "PostalCode": "8790735",
+    "Prefecture": "大分県",
+    "City": "豊後高田市"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RNH4401002345",
+    "PostalCode": "8770202",
+    "Prefecture": "大分県",
+    "City": "日田市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNH4401002321",
+    "PostalCode": "8770201",
+    "Prefecture": "大分県",
+    "City": "日田市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNH4401002093",
+    "PostalCode": "8762302",
+    "Prefecture": "大分県",
+    "City": "佐伯市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNH4401000429",
+    "PostalCode": "8730031",
+    "Prefecture": "大分県",
+    "City": "杵築市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNH4401002107",
+    "PostalCode": "8720721",
+    "Prefecture": "大分県",
+    "City": "宇佐市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REE2702600046",
+    "PostalCode": "5941153",
+    "Prefecture": "大阪府",
+    "City": "和泉市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REE2702600612",
+    "PostalCode": "5610862",
+    "Prefecture": "大阪府",
+    "City": "豊中市"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "5G",
+    "ID": "REE2702602052",
+    "PostalCode": "5600083",
+    "Prefecture": "大阪府",
+    "City": "豊中市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REE2702601129",
+    "PostalCode": "5798044",
+    "Prefecture": "大阪府",
+    "City": "東大阪市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RAE2721700175",
+    "PostalCode": "5770806",
+    "Prefecture": "大阪府",
+    "City": "東大阪市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RAE2721700176",
+    "PostalCode": "5770806",
+    "Prefecture": "大阪府",
+    "City": "東大阪市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "NEE2702600672",
+    "PostalCode": "5770063",
+    "Prefecture": "大阪府",
+    "City": "東大阪市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RAE2721700173",
+    "PostalCode": "5798042",
+    "Prefecture": "大阪府",
+    "City": "東大阪市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REE2702600264",
+    "PostalCode": "5630043",
+    "Prefecture": "大阪府",
+    "City": "池田市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REE2702601236",
+    "PostalCode": "5470003",
+    "Prefecture": "大阪府",
+    "City": "大阪市平野区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNE2701002573",
+    "PostalCode": "5470001",
+    "Prefecture": "大阪府",
+    "City": "大阪市平野区"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REE2702602486",
+    "PostalCode": "5530004",
+    "Prefecture": "大阪府",
+    "City": "大阪市福島区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "NEE2702600249",
+    "PostalCode": "5330033",
+    "Prefecture": "大阪府",
+    "City": "大阪市東淀川区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REE2702601108",
+    "PostalCode": "5370011",
+    "Prefecture": "大阪府",
+    "City": "大阪市東成区"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RAE2721700228",
+    "PostalCode": "5370024",
+    "Prefecture": "大阪府",
+    "City": "大阪市東成区"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RAE2721700229",
+    "PostalCode": "5370024",
+    "Prefecture": "大阪府",
+    "City": "大阪市東成区"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RAE2721700230",
+    "PostalCode": "5370024",
+    "Prefecture": "大阪府",
+    "City": "大阪市東成区"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "5G",
+    "ID": "NEE2702600152",
+    "PostalCode": "5370024",
+    "Prefecture": "大阪府",
+    "City": "大阪市東成区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNE2701002580",
+    "PostalCode": "5460042",
+    "Prefecture": "大阪府",
+    "City": "大阪市東住吉区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNE2701002673",
+    "PostalCode": "5430041",
+    "Prefecture": "大阪府",
+    "City": "大阪市天王寺区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNE2701002340",
+    "PostalCode": "5420082",
+    "Prefecture": "大阪府",
+    "City": "大阪市中央区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REE2702602606",
+    "PostalCode": "5570024",
+    "Prefecture": "大阪府",
+    "City": "大阪市西成区"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNE2701002248",
+    "PostalCode": "5570024",
+    "Prefecture": "大阪府",
+    "City": "大阪市西成区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RAE2721700081",
+    "PostalCode": "5440034",
+    "Prefecture": "大阪府",
+    "City": "大阪市生野区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "NEE2702600290",
+    "PostalCode": "5440024",
+    "Prefecture": "大阪府",
+    "City": "大阪市生野区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "NEE2702600422",
+    "PostalCode": "5590014",
+    "Prefecture": "大阪府",
+    "City": "大阪市住之江区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "NEE2702600802",
+    "PostalCode": "5540002",
+    "Prefecture": "大阪府",
+    "City": "大阪市此花区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REE2702602316",
+    "PostalCode": "5520002",
+    "Prefecture": "大阪府",
+    "City": "大阪市港区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REE2702600739",
+    "PostalCode": "5890011",
+    "Prefecture": "大阪府",
+    "City": "大阪狭山市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "REE2702600208",
+    "PostalCode": "5720822",
+    "Prefecture": "大阪府",
+    "City": "寝屋川市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REE2702600303",
+    "PostalCode": "5998111",
+    "Prefecture": "大阪府",
+    "City": "堺市東区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RAE2721700070",
+    "PostalCode": "5690825",
+    "Prefecture": "大阪府",
+    "City": "高槻市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RAE2721700227",
+    "PostalCode": "5670031",
+    "Prefecture": "大阪府",
+    "City": "茨木市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNA12B1000024",
+    "PostalCode": "2930058",
+    "Prefecture": "千葉県",
+    "City": "富津市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REA1202600220",
+    "PostalCode": "2770871",
+    "Prefecture": "千葉県",
+    "City": "柏市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REA1202602213",
+    "PostalCode": "2730044",
+    "Prefecture": "千葉県",
+    "City": "船橋市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "NEA1202600415",
+    "PostalCode": "2600851",
+    "Prefecture": "千葉県",
+    "City": "千葉市中央区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "NEA1202600525",
+    "PostalCode": "2600843",
+    "Prefecture": "千葉県",
+    "City": "千葉市中央区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "NEA1202600114",
+    "PostalCode": "2720111",
+    "Prefecture": "千葉県",
+    "City": "市川市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNA1201002061",
+    "PostalCode": "2900212",
+    "Prefecture": "千葉県",
+    "City": "市原市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REA1202602292",
+    "PostalCode": "2840001",
+    "Prefecture": "千葉県",
+    "City": "四街道市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RND1701002190",
+    "PostalCode": "9202301",
+    "Prefecture": "石川県",
+    "City": "白山市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RND1701002440",
+    "PostalCode": "9292234",
+    "Prefecture": "石川県",
+    "City": "七尾市"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RND1701002243",
+    "PostalCode": "9200131",
+    "Prefecture": "石川県",
+    "City": "金沢市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RND1701002283",
+    "PostalCode": "9200137",
+    "Prefecture": "石川県",
+    "City": "金沢市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RND1701002291",
+    "PostalCode": "9291404",
+    "Prefecture": "石川県",
+    "City": "羽咋郡宝達志水町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REC2202600844",
+    "PostalCode": "4180006",
+    "Prefecture": "静岡県",
+    "City": "富士宮市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "KAC22K1000035",
+    "PostalCode": "4313906",
+    "Prefecture": "静岡県",
+    "City": "浜松市天竜区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNC2201002020",
+    "PostalCode": "4370012",
+    "Prefecture": "静岡県",
+    "City": "袋井市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REC2202601270",
+    "PostalCode": "4240905",
+    "Prefecture": "静岡県",
+    "City": "静岡市清水区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REC2202600042",
+    "PostalCode": "4228006",
+    "Prefecture": "静岡県",
+    "City": "静岡市駿河区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNC2201001334",
+    "PostalCode": "4212223",
+    "Prefecture": "静岡県",
+    "City": "静岡市葵区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REC2202602289",
+    "PostalCode": "4120002",
+    "Prefecture": "静岡県",
+    "City": "御殿場市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNI0201002203",
+    "PostalCode": "0310113",
+    "Prefecture": "青森県",
+    "City": "八戸市"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RNI0201002250",
+    "PostalCode": "0393373",
+    "Prefecture": "青森県",
+    "City": "東津軽郡平内町"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNI0201002091",
+    "PostalCode": "0382734",
+    "Prefecture": "青森県",
+    "City": "西津軽郡鰺ヶ沢町"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNI0201002111",
+    "PostalCode": "0393213",
+    "Prefecture": "青森県",
+    "City": "上北郡六ヶ所村"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNI0201002212",
+    "PostalCode": "0340211",
+    "Prefecture": "青森県",
+    "City": "十和田市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REA1402600887",
+    "PostalCode": "2520805",
+    "Prefecture": "神奈川県",
+    "City": "藤沢市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REA1402601750",
+    "PostalCode": "2130022",
+    "Prefecture": "神奈川県",
+    "City": "川崎市高津区"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REA1402602350",
+    "PostalCode": "2120012",
+    "Prefecture": "神奈川県",
+    "City": "川崎市幸区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REA1402600394",
+    "PostalCode": "2430812",
+    "Prefecture": "神奈川県",
+    "City": "厚木市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REA1402601486",
+    "PostalCode": "2400003",
+    "Prefecture": "神奈川県",
+    "City": "横浜市保土ケ谷区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REA1402602424",
+    "PostalCode": "2240053",
+    "Prefecture": "神奈川県",
+    "City": "横浜市都筑区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "NEA1402600648",
+    "PostalCode": "2310855",
+    "Prefecture": "神奈川県",
+    "City": "横浜市中区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "NEA1402600281",
+    "PostalCode": "2310801",
+    "Prefecture": "神奈川県",
+    "City": "横浜市中区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "NEA1402600645",
+    "PostalCode": "2310826",
+    "Prefecture": "神奈川県",
+    "City": "横浜市中区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REA1402000535",
+    "PostalCode": "2250011",
+    "Prefecture": "神奈川県",
+    "City": "横浜市青葉区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNA1401002290",
+    "PostalCode": "2210023",
+    "Prefecture": "神奈川県",
+    "City": "横浜市神奈川区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RAA1421700042",
+    "PostalCode": "2210001",
+    "Prefecture": "神奈川県",
+    "City": "横浜市神奈川区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RAA1421700043",
+    "PostalCode": "2210001",
+    "Prefecture": "神奈川県",
+    "City": "横浜市神奈川区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "REA1402601151",
+    "PostalCode": "2440804",
+    "Prefecture": "神奈川県",
+    "City": "横浜市戸塚区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REA1402600417",
+    "PostalCode": "2470009",
+    "Prefecture": "神奈川県",
+    "City": "横浜市栄区"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNA1401002501",
+    "PostalCode": "2521134",
+    "Prefecture": "神奈川県",
+    "City": "綾瀬市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNB1501002029",
+    "PostalCode": "9570105",
+    "Prefecture": "新潟県",
+    "City": "北蒲原郡聖籠町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNB1501002147",
+    "PostalCode": "9494127",
+    "Prefecture": "新潟県",
+    "City": "柏崎市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNB1501002379",
+    "PostalCode": "9451501",
+    "Prefecture": "新潟県",
+    "City": "柏崎市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNB1501000482",
+    "PostalCode": "9580211",
+    "Prefecture": "新潟県",
+    "City": "村上市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNB1501000698",
+    "PostalCode": "9421103",
+    "Prefecture": "新潟県",
+    "City": "上越市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNB1501002033",
+    "PostalCode": "9492318",
+    "Prefecture": "新潟県",
+    "City": "上越市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNB1501002274",
+    "PostalCode": "9498726",
+    "Prefecture": "新潟県",
+    "City": "小千谷市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNB1501000526",
+    "PostalCode": "9490111",
+    "Prefecture": "新潟県",
+    "City": "糸魚川市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNB1501000681",
+    "PostalCode": "9591836",
+    "Prefecture": "新潟県",
+    "City": "五泉市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REB1502600401",
+    "PostalCode": "9540111",
+    "Prefecture": "新潟県",
+    "City": "見附市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "KAB15K1000001",
+    "PostalCode": "9460085",
+    "Prefecture": "新潟県",
+    "City": "魚沼市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REB1502600352",
+    "PostalCode": "9591253",
+    "Prefecture": "新潟県",
+    "City": "燕市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNH4601002197",
+    "PostalCode": "8996401",
+    "Prefecture": "鹿児島県",
+    "City": "霧島市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNH4601000820",
+    "PostalCode": "8942321",
+    "Prefecture": "鹿児島県",
+    "City": "大島郡瀬戸内町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNH4601000998",
+    "PostalCode": "8961301",
+    "Prefecture": "鹿児島県",
+    "City": "薩摩川内市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNE2501002078",
+    "PostalCode": "5210312",
+    "Prefecture": "滋賀県",
+    "City": "米原市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNE2501002067",
+    "PostalCode": "5200361",
+    "Prefecture": "滋賀県",
+    "City": "大津市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNA1901002101",
+    "PostalCode": "4080041",
+    "Prefecture": "山梨県",
+    "City": "北杜市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNA1901002024",
+    "PostalCode": "4060812",
+    "Prefecture": "山梨県",
+    "City": "笛吹市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNA1901002029",
+    "PostalCode": "4001127",
+    "Prefecture": "山梨県",
+    "City": "甲斐市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNI0601002073",
+    "PostalCode": "9991431",
+    "Prefecture": "山形県",
+    "City": "西置賜郡小国町"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNI0621007001",
+    "PostalCode": "9993221",
+    "Prefecture": "山形県",
+    "City": "上山市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "5G",
+    "ID": "REC2402600126",
+    "PostalCode": "5100012",
+    "Prefecture": "三重県",
+    "City": "四日市市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "5G",
+    "ID": "REC2402600237",
+    "PostalCode": "5108028",
+    "Prefecture": "三重県",
+    "City": "四日市市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REC2402602077",
+    "PostalCode": "5108007",
+    "Prefecture": "三重県",
+    "City": "四日市市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNC2401000838",
+    "PostalCode": "5111111",
+    "Prefecture": "三重県",
+    "City": "桑名市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REA1102601091",
+    "PostalCode": "3510115",
+    "Prefecture": "埼玉県",
+    "City": "和光市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REA1102600892",
+    "PostalCode": "3520004",
+    "Prefecture": "埼玉県",
+    "City": "新座市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "5G",
+    "ID": "REA1102600153",
+    "PostalCode": "3620052",
+    "Prefecture": "埼玉県",
+    "City": "上尾市"
+  },
+  {
+    "Date": "2023/11/11",
+    "Type": "5G",
+    "ID": "REA1102600260",
+    "PostalCode": "3591104",
+    "Prefecture": "埼玉県",
+    "City": "所沢市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "5G",
+    "ID": "REA1102600543",
+    "PostalCode": "3591111",
+    "Prefecture": "埼玉県",
+    "City": "所沢市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REA1102600668",
+    "PostalCode": "3410003",
+    "Prefecture": "埼玉県",
+    "City": "三郷市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNA1101002213",
+    "PostalCode": "3410042",
+    "Prefecture": "埼玉県",
+    "City": "三郷市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REA1102600919",
+    "PostalCode": "3501333",
+    "Prefecture": "埼玉県",
+    "City": "狭山市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "NEA1102600265",
+    "PostalCode": "3300081",
+    "Prefecture": "埼玉県",
+    "City": "さいたま市中央区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "NEA1102600232",
+    "PostalCode": "3380821",
+    "Prefecture": "埼玉県",
+    "City": "さいたま市桜区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "NEA1102000261",
+    "PostalCode": "3300071",
+    "Prefecture": "埼玉県",
+    "City": "さいたま市浦和区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNH4101000452",
+    "PostalCode": "8402105",
+    "Prefecture": "佐賀県",
+    "City": "佐賀市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNH4101002065",
+    "PostalCode": "8480105",
+    "Prefecture": "佐賀県",
+    "City": "伊万里市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNG3901002162",
+    "PostalCode": "7880323",
+    "Prefecture": "高知県",
+    "City": "幡多郡大月町"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNF3401002464",
+    "PostalCode": "7200204",
+    "Prefecture": "広島県",
+    "City": "福山市"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNF3401002242",
+    "PostalCode": "7230131",
+    "Prefecture": "広島県",
+    "City": "三原市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNF3401002326",
+    "PostalCode": "7310236",
+    "Prefecture": "広島県",
+    "City": "広島市安佐北区"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNF3401002482",
+    "PostalCode": "7314231",
+    "Prefecture": "広島県",
+    "City": "広島市安芸区"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNF3401002224",
+    "PostalCode": "7340303",
+    "Prefecture": "広島県",
+    "City": "呉市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNF3401002428",
+    "PostalCode": "7372501",
+    "Prefecture": "広島県",
+    "City": "呉市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNF3401002142",
+    "PostalCode": "7391805",
+    "Prefecture": "広島県",
+    "City": "安芸高田市"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "5G",
+    "ID": "REA1002600683",
+    "PostalCode": "3770007",
+    "Prefecture": "群馬県",
+    "City": "渋川市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNA1001000784",
+    "PostalCode": "3700071",
+    "Prefecture": "群馬県",
+    "City": "高崎市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNH4301000609",
+    "PostalCode": "8632201",
+    "Prefecture": "熊本県",
+    "City": "天草市"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RNH4301000412",
+    "PostalCode": "8693603",
+    "Prefecture": "熊本県",
+    "City": "上天草市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNE2601000665",
+    "PostalCode": "6200062 ",
+    "Prefecture": "京都府",
+    "City": "福知山市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNE26B1000016",
+    "PostalCode": "6200836",
+    "Prefecture": "京都府",
+    "City": "福知山市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNE2601002151",
+    "PostalCode": "6290323",
+    "Prefecture": "京都府",
+    "City": "南丹市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REE2602602046",
+    "PostalCode": "6170836",
+    "Prefecture": "京都府",
+    "City": "長岡京市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNE2601002043",
+    "PostalCode": "6210124",
+    "Prefecture": "京都府",
+    "City": "亀岡市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNI0401002281",
+    "PostalCode": "9860402",
+    "Prefecture": "宮城県",
+    "City": "登米市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "4G",
+    "ID": "RNI0401002033",
+    "PostalCode": "9890821 ",
+    "Prefecture": "宮城県",
+    "City": "刈田郡蔵王町"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNI0401002397",
+    "PostalCode": "9893213",
+    "Prefecture": "宮城県",
+    "City": "仙台市青葉区"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNI0401002402",
+    "PostalCode": "9893434",
+    "Prefecture": "宮城県",
+    "City": "仙台市青葉区"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNI0401002194",
+    "PostalCode": "9813501",
+    "Prefecture": "宮城県",
+    "City": "黒川郡大郷町"
+  },
+  {
+    "Date": "2023/11/6",
+    "Type": "4G",
+    "ID": "RNI0401002319",
+    "PostalCode": "9814371",
+    "Prefecture": "宮城県",
+    "City": "加美郡加美町"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNH4501002263",
+    "PostalCode": "8820125",
+    "Prefecture": "宮崎県",
+    "City": "延岡市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNH45B1000024",
+    "PostalCode": "8890102",
+    "Prefecture": "宮崎県",
+    "City": "延岡市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "4G",
+    "ID": "RNC2101002042",
+    "PostalCode": "5050003",
+    "Prefecture": "岐阜県",
+    "City": "美濃加茂市"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNI0301002476",
+    "PostalCode": "0285304",
+    "Prefecture": "岩手県",
+    "City": "二戸郡一戸町"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RNI0301002046",
+    "PostalCode": "0284134",
+    "Prefecture": "岩手県",
+    "City": "盛岡市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNI0301002493",
+    "PostalCode": "0281131",
+    "Prefecture": "岩手県",
+    "City": "上閉伊郡大槌町"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNI03B1000082",
+    "PostalCode": "0280772",
+    "Prefecture": "岩手県",
+    "City": "遠野市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNO4701002117",
+    "PostalCode": "9060106",
+    "Prefecture": "沖縄県",
+    "City": "宮古島市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNO4701002086",
+    "PostalCode": "9060101",
+    "Prefecture": "沖縄県",
+    "City": "宮古島市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "4G",
+    "ID": "RNF3301000421",
+    "PostalCode": "7080312",
+    "Prefecture": "岡山県",
+    "City": "苫田郡鏡野町"
+  },
+  {
+    "Date": "2023/11/15",
+    "Type": "4G",
+    "ID": "RNA0801002062",
+    "PostalCode": "3114402",
+    "Prefecture": "茨城県",
+    "City": "東茨城郡城里町"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNA0801002061",
+    "PostalCode": "3114406",
+    "Prefecture": "茨城県",
+    "City": "東茨城郡城里町"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNA0801002093",
+    "PostalCode": "3190323",
+    "Prefecture": "茨城県",
+    "City": "水戸市"
+  },
+  {
+    "Date": "2023/11/1",
+    "Type": "5G",
+    "ID": "REG3802602216",
+    "PostalCode": "7960203",
+    "Prefecture": "愛媛県",
+    "City": "八幡浜市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "KAG3801000039",
+    "PostalCode": "7971608",
+    "Prefecture": "愛媛県",
+    "City": "大洲市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNG3801002286",
+    "PostalCode": "7971322",
+    "Prefecture": "愛媛県",
+    "City": "西予市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNG3801002047",
+    "PostalCode": "7950301",
+    "Prefecture": "愛媛県",
+    "City": "喜多郡内子町"
+  },
+  {
+    "Date": "2023/11/7",
+    "Type": "4G",
+    "ID": "RNG3801002040",
+    "PostalCode": "7913310",
+    "Prefecture": "愛媛県",
+    "City": "喜多郡内子町"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "4G",
+    "ID": "RNG3801002351",
+    "PostalCode": "7981141",
+    "Prefecture": "愛媛県",
+    "City": "宇和島市"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNG3801002347",
+    "PostalCode": "7993751",
+    "Prefecture": "愛媛県",
+    "City": "宇和島市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNG3801002025",
+    "PostalCode": "7993202",
+    "Prefecture": "愛媛県",
+    "City": "伊予市"
+  },
+  {
+    "Date": "2023/11/2",
+    "Type": "4G",
+    "ID": "RNG3801002403",
+    "PostalCode": "7913201",
+    "Prefecture": "愛媛県",
+    "City": "伊予市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REC2302602449",
+    "PostalCode": "4680043",
+    "Prefecture": "愛知県",
+    "City": "名古屋市天白区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "4G",
+    "ID": "RNC2301002614",
+    "PostalCode": "4640057",
+    "Prefecture": "愛知県",
+    "City": "名古屋市千種区"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REC2302601423",
+    "PostalCode": "4660829",
+    "Prefecture": "愛知県",
+    "City": "名古屋市昭和区"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REC2302601509",
+    "PostalCode": "4660833",
+    "Prefecture": "愛知県",
+    "City": "名古屋市昭和区"
+  },
+  {
+    "Date": "2023/11/8",
+    "Type": "5G",
+    "ID": "REC2302600323",
+    "PostalCode": "4750848",
+    "Prefecture": "愛知県",
+    "City": "半田市"
+  },
+  {
+    "Date": "2023/11/9",
+    "Type": "4G",
+    "ID": "RNC2301002329",
+    "PostalCode": "4703321",
+    "Prefecture": "愛知県",
+    "City": "知多郡南知多町"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REC2302600581",
+    "PostalCode": "4850828",
+    "Prefecture": "愛知県",
+    "City": "小牧市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REC2302000655",
+    "PostalCode": "4860932",
+    "Prefecture": "愛知県",
+    "City": "春日井市"
+  },
+  {
+    "Date": "2023/11/14",
+    "Type": "5G",
+    "ID": "REC2302601299",
+    "PostalCode": "4440821",
+    "Prefecture": "愛知県",
+    "City": "岡崎市"
+  },
+  {
+    "Date": "2023/11/13",
+    "Type": "5G",
+    "ID": "REC2302601321",
+    "PostalCode": "4440211",
+    "Prefecture": "愛知県",
+    "City": "岡崎市"
+  },
+  {
+    "Date": "2023/11/10",
+    "Type": "5G",
+    "ID": "REC2302600480",
+    "PostalCode": "4940006",
+    "Prefecture": "愛知県",
+    "City": "一宮市"
   }
 ]
