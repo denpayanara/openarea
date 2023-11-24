@@ -158,6 +158,22 @@ client.create_tweet(text = message, )
 with open('data/url.text', mode='w') as f:
     f.write(urls[0])
 
+# 過去データに追加して保存
+
+with open('data/rakuten_data.json') as f:
+    before_json = json.load(f)
+
+for d in before_json:
+
+    if d['flag'] == 0:
+
+        d.pop('flag')
+
+        before_json.append(d)
+
+with open('data/rakuten_data.json', 'w') as f:
+    json.dump(before_json, f, indent=2, ensure_ascii=False)
+
 # 開局エリアのポリゴン作成
 
 print('開局エリアのポリゴンを作成します...')
