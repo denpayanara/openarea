@@ -145,7 +145,7 @@ api = tweepy.API(auth)
 client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
 
 # ツイート
-client.create_tweet(text = message, )
+# client.create_tweet(text = message, )
 
 # # LINE アクセストークン忘れた
 # line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
@@ -157,22 +157,6 @@ client.create_tweet(text = message, )
 
 with open('data/url.text', mode='w') as f:
     f.write(urls[0])
-
-# 過去データに追加して保存
-
-with open('data/rakuten_data.json') as f:
-    before_json = json.load(f)
-
-for d in before_json:
-
-    if d['flag'] == 0:
-
-        d.pop('flag')
-
-        before_json.append(d)
-
-with open('data/rakuten_data.json', 'w') as f:
-    json.dump(before_json, f, indent=2, ensure_ascii=False)
 
 # 開局エリアのポリゴン作成
 
