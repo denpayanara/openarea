@@ -47,7 +47,8 @@ ctx = ssl.create_default_context()
 ctx.options |= 0x4
 
 with request.urlopen(url, context=ctx) as r:
-    urls = re.findall(r'"(/assets/json/area-project-\d{6}-\d{6}.json)"', r.read().decode('utf-8'))
+    # /assets/json/area-project-\d{6}-\d{6}.json
+    urls = re.findall(r'"(/assets/json/area-project-\d{6}-\d{4}.json)"', r.read().decode('utf-8'))
 
 json_data = list()
 
