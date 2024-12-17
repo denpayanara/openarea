@@ -1,4 +1,6 @@
 geopandas
+kaleido
 pandas
+plotly
 shapely
 tweepy
