@@ -10,6 +10,7 @@ import geopandas as gpd
 # from linebot import LineBotApi
 # from linebot.models import TextSendMessage
 import pandas as pd
+import plotly.figure_factory as ff
 import tweepy
 
 # 郵便番号データ
@@ -141,8 +142,6 @@ platina_data = [
     {"Prefecture": item["Prefecture"], "City": item["City"], "Date": item["Date"], "ID": item["ID"],}
     for item in json_data if re.match(pattern, item.get("ID", ""))
 ]
-
-# pd.DataFrame(platina_data)
 
 # プラチナのデータがある時、ツイート用の画像を作成し保存
 if len(platina_data) > 0:
