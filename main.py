@@ -53,14 +53,14 @@ with request.urlopen(url, context=ctx) as r:
 
 json_data = list()
 
-if urls == 0: # 要修正！
+if urls != 0:
 
     # 前回の値と異なれば実行
 
     with open('data/url.text', mode='r') as f:
         before_url = f.read()
 
-    if before_url != urls[0]:
+    if before_url == urls[0]: # 要修正！
 
         for i, url in enumerate(urls):
             
