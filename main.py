@@ -52,7 +52,7 @@ with request.urlopen(url, context=ctx) as r:
 
 json_data = list()
 
-if urls != 0:
+if urls == 0: # 要修正！
 
     # 前回の値と異なれば実行
 
@@ -127,9 +127,44 @@ for d in list_nara:
 
             addr_5G += d['addr'].replace('奈良県', '') + '\n'    
 
-message = f'基地局設置情報ページが更新されました。\n\n奈良県は{count_nara}件です。\n\n{addr_4G+addr_5G}\nhttps://network.mobile.rakuten.co.jp/area/saikyo-plan-project/?l-id=area_saikyo-plan-project\n#楽天モバイル #bot'
+message = f'【テスト】基地局設置情報ページが更新されました。\n\n奈良県は{count_nara}件です。\n\n{addr_4G+addr_5G}\nhttps://network.mobile.rakuten.co.jp/area/saikyo-plan-project/?l-id=area_saikyo-plan-project\n#楽天モバイル #bot'
 
 print(message)
+
+# プラチナバンド
+
+# 正規表現パターンでプラチナバンドを抽出: 2〜3文字目がNAかつ6〜7文字目が07
+pattern = r'^.NA..07'
+
+# 条件に一致するデータを抽出 (ID, Prefecture, City)
+platina_data = [
+    {"Prefecture": item["Prefecture"], "City": item["City"], "Date": item["Date"], "ID": item["ID"],}
+    for item in json_data if re.match(pattern, item.get("ID", ""))
+]
+
+# pd.DataFrame(platina_data)
+
+# プラチナのデータがある時、ツイート用の画像を作成し保存
+if len(platina_data) > 0:
+    
+    # plotlyで近畿圏のデータをプロット
+    fig = ff.create_table(pd.DataFrame(platina_data))
+
+    # 下部に余白を付けて更新日を表記
+    fig.update_layout(
+        title_text = '新たに基地局設置情報に追加されたプラチナバンドの一覧です',
+        title_x = 0.98,
+        title_y = 0.025,
+        title_xanchor = 'right',
+        title_yanchor = 'bottom',
+        # 余白の設定
+        margin = dict(l = 0, r = 0, t = 0, b = 45)
+    ) 
+
+    # タイトルフォントサイズ
+    fig.layout.title.font.size = 10
+
+    fig.write_image(f'data/platina.png', engine='kaleido', scale=1)
 
 # SNSへ通知
 
@@ -146,7 +181,11 @@ api = tweepy.API(auth)
 client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
 
 # ツイート
-client.create_tweet(text = message, )
+
+media_ids = []
+res_media_ids = api.media_upload(filename = './data/platina.png', file = img_data)
+media_ids.append(res_media_ids.media_id)
+client.create_tweet(text = message, media_ids=media_ids)
 
 # # LINE アクセストークン忘れた
 # line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
