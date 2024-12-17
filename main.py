@@ -60,7 +60,7 @@ if urls != 0:
     with open('data/url.text', mode='r') as f:
         before_url = f.read()
 
-    if before_url == urls[0]: # 要修正！
+    if before_url != urls[0]:
 
         for i, url in enumerate(urls):
             
@@ -128,7 +128,7 @@ for d in list_nara:
 
             addr_5G += d['addr'].replace('奈良県', '') + '\n'    
 
-message = f'【テスト】基地局設置情報ページが更新されました。\n\n奈良県は{count_nara}件です。\n\n{addr_4G+addr_5G}\nhttps://network.mobile.rakuten.co.jp/area/saikyo-plan-project/?l-id=area_saikyo-plan-project\n#楽天モバイル #bot'
+message = f'地局設置情報ページが更新されました。\n\n奈良県は{count_nara}件です。\n\n{addr_4G+addr_5G}\nプラチナバンドの追加がある場合は画像が生成されます(全国対応)\nhttps://network.mobile.rakuten.co.jp/area/saikyo-plan-project/?l-id=area_saikyo-plan-project\n#楽天モバイル #bot'
 
 print(message)
 
