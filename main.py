@@ -182,7 +182,7 @@ client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, acc
 # ツイート
 
 media_ids = []
-res_media_ids = api.media_upload(filename = './data/platina.png', file = img_data)
+res_media_ids = api.media_upload(filename = './data/platina.png', )
 media_ids.append(res_media_ids.media_id)
 client.create_tweet(text = message, media_ids=media_ids)
 
