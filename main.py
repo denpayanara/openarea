@@ -181,10 +181,15 @@ client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, acc
 
 # ツイート
 
-media_ids = []
-res_media_ids = api.media_upload(filename = './data/platina.png', )
-media_ids.append(res_media_ids.media_id)
-client.create_tweet(text = message, media_ids=media_ids)
+# プラチナデータの更新がある場合のみ画像投稿
+if len(platina_data) > 0:
+
+    media_ids = []
+    res_media_ids = api.media_upload(filename = './data/platina.png', )
+    media_ids.append(res_media_ids.media_id)
+    client.create_tweet(text = message, media_ids=media_ids)
+else:
+    client.create_tweet(text = message, )
 
 # # LINE アクセストークン忘れた
 # line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
