@@ -168,28 +168,28 @@ if len(platina_data) > 0:
 # SNSへ通知
 
 # Twitter
-api_key = os.environ['API_KEY']
-api_secret = os.environ['API_SECRET_KEY']
-access_token = os.environ['ACCESS_TOKEN']
-access_token_secret = os.environ['ACCESS_TOKEN_SECRET']
+# api_key = os.environ['API_KEY']
+# api_secret = os.environ['API_SECRET_KEY']
+# access_token = os.environ['ACCESS_TOKEN']
+# access_token_secret = os.environ['ACCESS_TOKEN_SECRET']
 
-auth = tweepy.OAuthHandler(api_key, api_secret)
-auth.set_access_token(access_token, access_token_secret)
+# auth = tweepy.OAuthHandler(api_key, api_secret)
+# auth.set_access_token(access_token, access_token_secret)
 
-api = tweepy.API(auth)
-client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
+# api = tweepy.API(auth)
+# client = tweepy.Client(consumer_key = api_key, consumer_secret = api_secret, access_token = access_token, access_token_secret = access_token_secret,)
 
-# ツイート
+# # ツイート
 
-# プラチナデータの更新がある場合のみ画像投稿
-if len(platina_data) > 0:
+# # プラチナデータの更新がある場合のみ画像投稿
+# if len(platina_data) > 0:
 
-    media_ids = []
-    res_media_ids = api.media_upload(filename = './data/platina.png', )
-    media_ids.append(res_media_ids.media_id)
-    client.create_tweet(text = message, media_ids=media_ids)
-else:
-    client.create_tweet(text = message, )
+#     media_ids = []
+#     res_media_ids = api.media_upload(filename = './data/platina.png', )
+#     media_ids.append(res_media_ids.media_id)
+#     client.create_tweet(text = message, media_ids=media_ids)
+# else:
+#     client.create_tweet(text = message, )
 
 # # LINE アクセストークン忘れた
 # line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
