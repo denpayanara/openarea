@@ -192,11 +192,11 @@ if len(platina_data) > 0:
 # else:
 #     client.create_tweet(text = message, )
 
-# # LINE アクセストークン忘れた
-# line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
+# LINE アクセストークン忘れた
+line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
 
-# # 送信
-# line_bot_api.broadcast(messages = [TextSendMessage(text = message),])
+# 送信
+line_bot_api.broadcast(messages = [TextSendMessage(text = message),])
 
 # 最新のURLを保存
 
