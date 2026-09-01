@@ -164,7 +164,7 @@ if len(platina_data) > 0:
     fig.layout.title.font.size = 10
 
     # fig.write_image(f'data/platina.png', engine='kaleido', scale=1)
-    fig.write_image(f'tweet_data/diff_{musen}.png',scale=1)
+    fig.write_image(f'data/platina.png',scale=1)
 
 # SNSへ通知
 
