@@ -192,7 +192,7 @@ if len(platina_data) > 0:
 # else:
 #     client.create_tweet(text = message, )
 
-# LINE アクセストークン忘れた
+# LINE
 line_bot_api = LineBotApi(os.environ['LINE_CHANNEL_ACCESS_TOKEN'])
 
 # 送信
