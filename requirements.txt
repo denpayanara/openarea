@@ -1,5 +1,6 @@
 geopandas
 kaleido
+line-bot-sdk
 pandas
 plotly
 shapely
