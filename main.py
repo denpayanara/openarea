@@ -7,11 +7,11 @@ import time
 from urllib import request, parse
 
 import geopandas as gpd
-# from linebot import LineBotApi
-# from linebot.models import TextSendMessage
+from linebot import LineBotApi
+from linebot.models import TextSendMessage
 import pandas as pd
 import plotly.figure_factory as ff
-import tweepy
+# import tweepy
 
 # 郵便番号データ
 with open('zip_code_nara.json') as f:
