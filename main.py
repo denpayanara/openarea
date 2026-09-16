@@ -136,7 +136,7 @@ print(message)
 
 # 正規表現パターンでプラチナバンドを抽出: 2〜3文字目がNNもしくはNAでかつ6〜7文字目が07
 # pattern = r'^.(NA|NN)..07'
-pattern = r'^.....01'
+pattern = r'^.....07'
 
 # 条件に一致するデータを抽出 (ID, Prefecture, City)
 platina_data = [
